@@ -1,0 +1,24 @@
+# Secrets
+secrets.toml
+
+# Python virtual environment
+env/
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Streamlit cache and configuration
+.streamlit/
+
+# Local file storage
+data/
+uploads/
+
+# Logs
+*.log
+
+# Temporary files and directories
+*.tmp
+*.temp
